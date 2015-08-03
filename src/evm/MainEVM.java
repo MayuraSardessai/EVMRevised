@@ -7,11 +7,7 @@ public class MainEVM {
 		
 		EVM evm = new EVM();
 		evm.working();
-		//bu.registerCandidate(candi);
-		//ControlUnit cu = new ControlUnit();
-	//	cu.display(candi);
 		
-
 	}
 
 }

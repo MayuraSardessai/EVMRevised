@@ -2,6 +2,6 @@ package evm;
 
 public interface Lamp {
 	
-	void changeState();
+	void changeState(BallotUnit bu);
 
 }
